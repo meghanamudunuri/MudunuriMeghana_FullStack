@@ -1,0 +1,33 @@
+[
+    {
+        "name" :"",
+        "image" : "d1",
+        "type" : "fashion"
+    },
+    {
+        "name" :"handbag",
+        "image" : "d2",
+        "type" : "fashion"
+    },
+    {
+        "name" :"kurti",
+        "image" : "p1",
+        "type" : "mobile"
+    },
+    {
+        
+        "name" :"vivo s1",
+        "image" : "p2",
+        "type" : "mobile"
+    },
+    {
+        "name" :"samsung tv",
+        "image" : "j1",
+        "type" : "jewellery"
+    },
+    {
+        "name" :"eyeshadow",
+        "image" : "j2",
+        "type" : "jewellery"
+    }
+]
